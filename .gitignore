@@ -1,0 +1,5 @@
+# Client projects, briefs and generated results stay local
+Projetos/
+projetos/
+node_modules/
+.env
